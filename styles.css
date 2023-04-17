@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 4rem;
   color: #ffebeb;
   font-family: 'Neonderthaw', cursive;
   text-shadow: 0 0 20px red;
@@ -62,15 +62,15 @@ footer {
 .drum {
   display: inline-block;
   outline: none;
-  font-size: 5rem;
+  font-size: 3.5rem;
   font-family: 'New Rocker', cursive;
   line-height: 2;
   font-weight: 900;
   color: black;
   text-shadow: 5px 0 #FFDB89;
   border-radius: 15px;
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   text-align: center;
   margin: 10px;
   opacity: 85%;
